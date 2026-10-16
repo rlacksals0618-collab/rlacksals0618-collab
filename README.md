@@ -2,8 +2,36 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&text=Hello!%20Chanmin%20KIM!&animation=scaleIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <b>🔥 AI를 능숙하게 다루는 열정 있는 신입 개발자!</b> </div> <br>
+    <table>
+      <tbody>
+        <tr>
+          <td><b>🎓 학력</b></td>
+          <td>국민대학교 졸업</td>
+        </tr>
+        <tr>
+          <td><b>📜 자격증</b></td>
+          <td>일반기계기사</td>
+        </tr>
+        <tr>
+          <td><b>💼 현재</b></td>
+          <td>취업 준비 중 (열심히 공부 중!)</td>
+        </tr>
+        <tr>
+          <td><b>💻 언어</b></td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td><b>🤖 만들 수 있는 것</b></td>
+          <td>공기청정기 로봇 · 미니게임</td>
+        </tr>
+        <tr>
+          <td><b>🖥️ 개발 환경</b></td>
+          <td>Windows · GitHub</td>
+        </tr>
+      </tbody>
+    </table>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
