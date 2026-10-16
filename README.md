@@ -15,6 +15,65 @@
           <br/></div>
     </div>
     <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Projects </h2> <br>
+    <table>
+      <thead>
+        <tr>
+          <th>프로젝트</th>
+          <th>소개</th>
+          <th>기술</th>
+          <th>링크</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>🛒 auduino-market</b></td>
+          <td>아두이노 부품 쇼핑몰 데모 사이트<br>(파이썬 수업 실습)</td>
+          <td>Python · Flask<br>Supabase · Vercel</td>
+          <td>
+            <a href="https://github.com/rlacksals0618-collab/auduino-market"><img src="https://img.shields.io/badge/Repo-181717?style=plastic&logo=Github&logoColor=white"></a>
+            <a href="https://auduino-market.vercel.app"><img src="https://img.shields.io/badge/Demo-2EA44F?style=plastic&logo=Vercel&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>⚡ physical-ai-electronics-basics</b></td>
+          <td>비전공자를 위한<br>그림으로 보는 전자전기 기초 강의자료</td>
+          <td>Python · manim<br>python-pptx</td>
+          <td>
+            <a href="https://github.com/rlacksals0618-collab/physical-ai-electronics-basics"><img src="https://img.shields.io/badge/Repo-181717?style=plastic&logo=Github&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>🔮 tarot-78</b></td>
+          <td>뒤집힌 78장에서 직접 골라 보는<br>타로 리딩 페이지</td>
+          <td>HTML · CSS<br>JavaScript</td>
+          <td>
+            <a href="https://github.com/rlacksals0618-collab/tarot-78"><img src="https://img.shields.io/badge/Repo-181717?style=plastic&logo=Github&logoColor=white"></a>
+            <a href="https://rlacksals0618-collab.github.io/tarot-78/"><img src="https://img.shields.io/badge/Demo-2EA44F?style=plastic&logo=GitHub%20Pages&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>👾 pacman-game</b></td>
+          <td>방향키로 조종하는<br>웹 팩맨 게임</td>
+          <td>HTML · CSS<br>JavaScript</td>
+          <td>
+            <a href="https://github.com/rlacksals0618-collab/pacman-game"><img src="https://img.shields.io/badge/Repo-181717?style=plastic&logo=Github&logoColor=white"></a>
+            <a href="https://rlacksals0618-collab.github.io/pacman-game/"><img src="https://img.shields.io/badge/Demo-2EA44F?style=plastic&logo=GitHub%20Pages&logoColor=white"></a>
+          </td>
+        </tr>
+        <tr>
+          <td><b>🐍 pose-snake-game</b></td>
+          <td>몸 동작(포즈)으로 조종하는<br>웹 뱀게임</td>
+          <td>JavaScript<br>Teachable Machine</td>
+          <td>
+            <a href="https://github.com/rlacksals0618-collab/pose-snake-game"><img src="https://img.shields.io/badge/Repo-181717?style=plastic&logo=Github&logoColor=white"></a>
+            <a href="https://rlacksals0618-collab.github.io/pose-snake-game/"><img src="https://img.shields.io/badge/Demo-2EA44F?style=plastic&logo=GitHub%20Pages&logoColor=white"></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:rlacksals0618@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:rlacksals0618@gmail.com"> </a>
           </div>  <br> 
